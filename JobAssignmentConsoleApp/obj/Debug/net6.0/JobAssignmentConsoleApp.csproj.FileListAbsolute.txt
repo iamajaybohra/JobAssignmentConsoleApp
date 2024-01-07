@@ -1,0 +1,15 @@
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\bin\Debug\net6.0\JobAssignmentConsoleApp.exe
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\bin\Debug\net6.0\JobAssignmentConsoleApp.deps.json
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\bin\Debug\net6.0\JobAssignmentConsoleApp.runtimeconfig.json
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\bin\Debug\net6.0\JobAssignmentConsoleApp.dll
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\bin\Debug\net6.0\JobAssignmentConsoleApp.pdb
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\obj\Debug\net6.0\JobAssignmentConsoleApp.csproj.AssemblyReference.cache
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\obj\Debug\net6.0\JobAssignmentConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\obj\Debug\net6.0\JobAssignmentConsoleApp.AssemblyInfoInputs.cache
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\obj\Debug\net6.0\JobAssignmentConsoleApp.AssemblyInfo.cs
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\obj\Debug\net6.0\JobAssignmentConsoleApp.csproj.CoreCompileInputs.cache
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\obj\Debug\net6.0\JobAssignmentConsoleApp.dll
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\obj\Debug\net6.0\refint\JobAssignmentConsoleApp.dll
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\obj\Debug\net6.0\JobAssignmentConsoleApp.pdb
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\obj\Debug\net6.0\JobAssignmentConsoleApp.genruntimeconfig.cache
+D:\project\JobAssignmentConsoleApp\JobAssignmentConsoleApp\obj\Debug\net6.0\ref\JobAssignmentConsoleApp.dll
